@@ -1,0 +1,30 @@
+.repo-item-container {
+  height: 200px;
+  width: 150px;
+  background-color: #f8f8ff;
+  margin: 10px;
+  padding: 10px;
+}
+.avatar {
+  height: 50px;
+  width: 50px;
+}
+.item-name {
+  font-size: 14px;
+  font-weight: bold;
+  color: #e73959;
+}
+.count-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.star-img {
+  height: 10px;
+  width: 10px;
+}
+
+.count-para {
+  font-size: 10px;
+  color: black;
+}
